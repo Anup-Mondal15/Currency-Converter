@@ -1,0 +1,7 @@
+
+void onexit(){
+
+printf("Exit");
+
+
+}

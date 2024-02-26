@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1581523987 source:c:\users\risfa\documents\currency converter 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581525903 source:c:\users\risfa\documents\currency converter 4.0\conditions1.c
+
+1581521914 source:c:\users\risfa\documents\currency converter 4.0\continent.c
+
+1581529420 source:c:\users\risfa\documents\currency converter 4.0\admin.c
+
+1581526823 source:c:\users\risfa\documents\currency converter 4.0\current_currency_rates.c
+
+1581529331 source:c:\users\risfa\documents\currency converter 4.0\exit.c
+
+1581840783 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\conditions1.c
+
+1581840783 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\current_currency_rates.c
+
+1581529332 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\exit.c
+
+1581839681 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581529456 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\admin.c
+
+1581665024 source:c:\users\asus\documents\currency converter 4.0\currency converter 4.0\continent.c
+
+1585341395 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\admin.c
+
+1585402038 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\continent.c
+
+1585342305 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\current_currency_rates.c
+
+1585241874 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\exit.c
+
+1585241870 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1585339856 source:c:\users\risfa\desktop\currency converter 4.0\currency converter 4.0\conditions1.c
+
+1585341396 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\admin.c
+
+1585640563 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\conditions1.c
+
+1585727217 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\continent.c
+
+1585640372 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\current_currency_rates.c
+
+1585241874 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\exit.c
+
+1585241870 source:c:\users\asus\desktop\currency converter 5.0\currency converter 5.0\currency converter 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
